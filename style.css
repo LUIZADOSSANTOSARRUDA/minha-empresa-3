@@ -1,5 +1,8 @@
 body{background-color: rgb(218, 198, 162);}
-h1{color: rgb(141, 107, 63);}
+h1{color: rgb(141, 107, 63);
+text-align: center;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+padding: 80px;}
 
 
 
